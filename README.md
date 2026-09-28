@@ -65,10 +65,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Iberdrola** | Wind Turbine Technician - Power | IL | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-32537?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Allison Transmission** | Service Engineer | Indianapolis, IN | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allisontransmission-ati-external-R008188?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Northrop Grumman** | Control Account Manager/ Avionics Integration Engineer (Level 2 or 3) | United States-Florida-Melbourne | 31m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252291?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **KLA** | Mechanical Engineer - Rack & PDU Systems | Ann Arbor, MI | 32m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2641525?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Iberdrola** | Wind Turbine Technician - Power | IL | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-32537?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Allison Transmission** | Service Engineer | Indianapolis, IN | 31m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allisontransmission-ati-external-R008188?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Northrop Grumman** | Control Account Manager/ Avionics Integration Engineer (Level 2 or 3) | United States-Florida-Melbourne | 41m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252291?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **KLA** | Mechanical Engineer - Rack & PDU Systems | Ann Arbor, MI | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2641525?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **ABB** | Computer Applications Engineer | USA, OR, Clackamas | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00043436?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **VAST** | Manufacturing Engineer, Thermal Controls Systems | Long Beach, California, United... | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vast-4716971006?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Schweitzer Engineering Laboratories** | Substation Designer | Pennsylvania King of Prussia | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-selinc-sel-2025-15807?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Philips** | Intern – Embedded Systems Test Automation Engineer – Bothell, WA – Summer 2027 | Bothell, Washington, United States | 21m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-592074?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Philips** | Intern – Embedded Systems Test Automation Engineer – Bothell, WA – Summer 2027 | Bothell, Washington, United States | 31m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-592074?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Northrop Grumman** | Manager Embedded Software Engineering 2 (Space Systems) - TS/SCI | United States-Illinois-Rolling... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252377?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Booz Allen Hamilton** | Embedded Controls Engineer | King George, VA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0250109?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Stanley Black & Decker** | Embedded Engineering Summer Intern 2027 | Towson, MD, United States | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000052019?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -345,7 +345,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **NVIDIA** | Mixed Signal Design Engineer - New College Grad 2026 | CA Santa Clara | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025693?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **NVIDIA** | Mixed Signal Design Engineer - New College Grad 2026 | CA Santa Clara | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025693?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **RTX** | PSCV Engineering Development Program - Validation Engineer I (Onsite) | CT-EAST HARTFORD-J | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872875?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **RTX** | Test Engineering Co-op (Summer/Fall 2027) | UT-VIRGIN | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01877177?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Blue Origin** | Test Engineer I (fixed term) | Greater Seattle Area | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R73157?s=gh-new-grad-hardware-engineering-jobs-2027) |
