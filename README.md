@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Northrop Grumman** | Control Account Manager/ Avionics Integration Engineer (Level 2 or 3) | United States-Florida-Melbourne | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252291?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Allison Transmission** | Service Engineer | Indianapolis, IN | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allisontransmission-ati-external-R008188?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **KLA** | Mechanical Engineer - Rack & PDU Systems | Ann Arbor, MI | 52m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2641525?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Northrop Grumman** | Control Account Manager/ Avionics Integration Engineer (Level 2 or 3) | United States-Florida-Melbourne | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252291?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Allison Transmission** | Service Engineer | Indianapolis, IN | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allisontransmission-ati-external-R008188?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **KLA** | Mechanical Engineer - Rack & PDU Systems | Ann Arbor, MI | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2641525?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Applied Materials** | Process Integration Engineer III | AlbanyNY | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2629182?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **ABB** | Computer Applications Engineer | USA, OR, Clackamas | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00043436?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **VAST** | Manufacturing Engineer, Thermal Controls Systems | Long Beach, California, United... | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vast-4716971006?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Philips** | Intern – Embedded Systems Test Automation Engineer – Bothell, WA – Summer 2027 | Bothell, Washington, United States | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-592074?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Philips** | Intern – Embedded Systems Test Automation Engineer – Bothell, WA – Summer 2027 | Bothell, Washington, United States | 31m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-592074?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Northrop Grumman** | Manager Embedded Software Engineering 2 (Space Systems) - TS/SCI | United States-Illinois-Rolling... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252377?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **iRhythm** | Firmware Quality Assurance Engineer Co-Op Intern Full Time January-JuneEngineer | San Francisco, CA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-irhythmtech-irhythm-JR1791?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **iRhythm** | Embedded SDET Co-Op Full Time Intern January-June 2027 | San Francisco, CA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-irhythmtech-irhythm-JR1758?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -346,7 +346,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **NVIDIA** | Mixed Signal Design Engineer - New College Grad 2026 | CA Santa Clara | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025693?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **NVIDIA** | Mixed Signal Design Engineer - New College Grad 2026 | CA Santa Clara | 21m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025693?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **RTX** | PSCV Engineering Development Program - Validation Engineer I (Onsite) | CT-EAST HARTFORD-J | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872875?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **RTX** | Test Engineering Co-op (Summer/Fall 2027) | UT-VIRGIN | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01877177?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Northrop Grumman** | Test Engineer TS SCI | United States-Virginia-Stafford | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253071?s=gh-new-grad-hardware-engineering-jobs-2027) |
